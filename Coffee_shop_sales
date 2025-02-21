@@ -1,6 +1,1 @@
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-cp "C:\Users\USER\OneDrive\Desktop\My Learning\Practice datasheets\Coffee+Shop+Sales" .
-git add your-file.xlsx
-git commit -m "Added Excel file"
-git push origin main
+
