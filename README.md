@@ -1,5 +1,4 @@
-📊 Data Analytics Portfolio
-
+📊 
 Welcome to my Data Analytics Portfolio! 🚀 Here, I showcase my projects in Power BI, Advanced Excel, SQL, and Data Visualization. My goal is to transform raw data into actionable insights to drive decision-making.
 
 📌 About Me
